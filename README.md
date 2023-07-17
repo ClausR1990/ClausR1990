@@ -1,4 +1,9 @@
-### Hi there 👋
+![Claus Reinhold](./assets/gh-featuredImage.png)
+
+![Static Badge](https://img.shields.io/badge/I%20specialize%20in%20-React.js-252640)
+
+With over 8+ years of experience creating different types of web applications, I thrive on solving complex problems and delivering sleek, seamless user experiences.
+From front-end to back-end, I've got you covered from start to finish, with a specialty in React.js
 
 - 🔭 I’m currently working on cool stuff for Nuuday
 - 📫 How to reach me: [My Website](https://clausreinhold.com/)
